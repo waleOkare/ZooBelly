@@ -1,0 +1,64 @@
+	
+	@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap'); /** Google Fonts **/
+	
+body{
+	background-color:#FFBF00;
+	 font-family: 'Lora', serif;
+}	
+
+img{
+	display: inline block;
+	
+}
+
+
+
+h1{
+	
+	font-family: 'Lora'
+}
+	
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  font-family: 'Lora', serif;
+}
+	
+.form-div  {
+	margin: 50px auto 50px;
+	padding: 25px 15px 10px 15px;
+	border: 1px solid #80ced7;
+	border-radius: 5px;
+	font-size: 1.1em;
+	 font-family: 'Lora', serif;
+	background-color:#F0F8FF;
+}	
+
+
+
+.form-control:focus {
+	box-shadow:none;
+	
+}
+
+.form-div.login{
+	margin-top:100px;
+}
+
+form p {
+	font-size:.89em
+}
+
+
+
+
+
+.logout{
+	color:white;
+}
+
+
+
+
