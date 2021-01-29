@@ -130,14 +130,17 @@ body {
 
 <div style="padding-left:20px">
   
- <P>ZooBelly provides a platform where knowledge and ideas will be share to drive tomorrow’s innovation. </P>
+ <P>ZooBelly provides a platform where knowledge and ideas will be share to drive tomorrowâ€™s innovation. </P>
  
- <p> Users Profile Creation - Macthing functionality with other users studying or working in the same  profession. </p>
+ <p> Users Profile Creation - Macthing functionality with other users studying or working in the same profession. </p>
  <p> Geo - Location API </p>
  
- <P> Virtual Classroom will have all the neccessary tools for teaching </P>  
+ <P> Virtual Classroom  </P>  
+	
  <P> Video Conferencing </P> 
+	
  <P>  Instant Messaging, Group chat </P> 
+	
  <P> Code Editor </P> 
  
  <P> VR MEETINGS </P>
