@@ -1,2 +1,2 @@
 # ZooBelly
-A Simple Social Networking Application for Professional Collaboration
+Social Networking Application for Professional Collaboration - 2022
